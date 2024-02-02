@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bdce1f8-de5d-4923-954b-324d8542b45f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Main2.1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Main2.2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b2f0a77deac5873d26e2b9594cdc64439ba58a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d86660c90708ff3abb90b39491d60c4a9b81c60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1bbf566773dcffbae957e491438abf146e484d0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d1bbf566773dcffbae957e491438abf146e484d0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee717759a40ef1a2e6db7b1d80ac76fbf74ba78b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1b2f0a77deac5873d26e2b9594cdc64439ba58a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9d86660c90708ff3abb90b39491d60c4a9b81c60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/ee717759a40ef1a2e6db7b1d80ac76fbf74ba78b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

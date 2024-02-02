@@ -34,7 +34,7 @@ fun isValid(command: Command): Boolean {
         }
         is Command.AddEmail -> {
             val email = command.email
-            email.matches("[a-zA-Z]+@[a-zA-Z]+.[a-zA-Z]+".toRegex())
+            email.matches("[a-zA-Z]+@[a-zA-Z]+\\.[a-zA-Z]+".toRegex())
         }
         else -> true
     }
