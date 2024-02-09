@@ -13,3 +13,9 @@ T
 $src/main/kotlin/seminar_2/Main2.2.kt,4\e\4e6df82c55a066c77ccbc7cfba8e96eac601f74e
 V
 &src/main/kotlin/seminar_2/Homework2.kt,d\5\d5fd4da1cfe6b55affb21b2c3d444e16fe160185
+T
+$src/main/kotlin/seminar_3/Main3.1.kt,a\3\a3eaabafa7fec54a5f8348a731ff86ea8f172e25
+T
+$src/main/kotlin/seminar_3/Main3.2.kt,e\a\eaa4e6fc34836de19d408356fb459bf5c7c9373a
+V
+&src/main/kotlin/seminar_3/Homework3.kt,d\8\d80f46b21ab0e05a6a5cd9e87634b8c3ed8e19ea

@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bdce1f8-de5d-4923-954b-324d8542b45f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Homework3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Main3.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Main3.2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5fd4da1cfe6b55affb21b2c3d444e16fe160185" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5fd4da1cfe6b55affb21b2c3d444e16fe160185" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

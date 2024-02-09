@@ -1,3 +1,4 @@
+/**
 sealed class Command {
     object Exit : Command()
     object Help : Command()
@@ -19,7 +20,7 @@ fun readCommand(): Command {
             when {
                 args.size == 1 -> Command.AddName(args[0])
                 args.size == 2 -> Command.AddPhone(args[0], args[1])
-                args.size == 3 -> Command.AddEmail(args[0], args[2])
+                args.size == 2 -> Command.AddEmail(args[0], args[2])
                 else -> Command.Help
             }
         }
@@ -34,7 +35,7 @@ fun isValid(command: Command): Boolean {
         }
         is Command.AddEmail -> {
             val email = command.email
-            email.matches("[a-zA-Z]+@[a-zA-Z]+.[a-zA-Z]".toRegex())
+            email.matches("[a-zA-Z]+@[a-zA-Z]+\\.[a-zA-Z.]+".toRegex())
         }
         else -> true
     }
@@ -98,3 +99,4 @@ fun main() {
         }
     }
 }
+*/

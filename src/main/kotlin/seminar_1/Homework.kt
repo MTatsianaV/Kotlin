@@ -1,4 +1,5 @@
 
+/**
 fun main() {
     /**
     Написать программу, которая обрабатывает введённые пользователем в консоль команды:
@@ -88,5 +89,6 @@ fun isValidPhone(phone: String): Boolean {
 }
 
 fun isValidEmail(email: String): Boolean {
-    return email.matches(Regex("[a-zA-Z]+@[a-zA-Z]+.[a-zA-Z]"))
+    return email.matches(Regex("[a-zA-Z]+@[a-zA-Z]+\\.[a-zA-Z.]+"))
 }
+*/

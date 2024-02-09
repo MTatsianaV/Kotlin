@@ -1,0 +1,2 @@
+
+¥kotlin:S6527"…Remove filter { it.city == "London" && it.age in 21..30 } and replace count() with count { it.city == "London" && it.age in 21..30 }.(¿¨ôÄ8½¿¥ÎÖ1
