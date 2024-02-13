@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bdce1f8-de5d-4923-954b-324d8542b45f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Homework3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Main3.1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Main3.2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5fd4da1cfe6b55affb21b2c3d444e16fe160185" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5fd4da1cfe6b55affb21b2c3d444e16fe160185" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_4/Homework4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d80f46b21ab0e05a6a5cd9e87634b8c3ed8e19ea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d80f46b21ab0e05a6a5cd9e87634b8c3ed8e19ea" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_1/Homework.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_2/Homework2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Homework3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/seminar_3/Homework3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +64,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

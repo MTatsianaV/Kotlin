@@ -19,3 +19,5 @@ T
 $src/main/kotlin/seminar_3/Main3.2.kt,e\a\eaa4e6fc34836de19d408356fb459bf5c7c9373a
 V
 &src/main/kotlin/seminar_3/Homework3.kt,d\8\d80f46b21ab0e05a6a5cd9e87634b8c3ed8e19ea
+V
+&src/main/kotlin/seminar_4/Homework4.kt,0\0\009de2d75fc1c164e4c6ac063c619a8dd0197140

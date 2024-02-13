@@ -1,4 +1,4 @@
-import java.util.regex.Pattern
+/**import java.util.regex.Pattern
 
 sealed class Command {
     abstract fun isValid(): Boolean
@@ -158,4 +158,4 @@ fun printHelp() {
         show <имя> - показать связанные с именем телефоны и email
         find <значение> - найти список людей с указанным значением (телефон или email)
     """.trimIndent())
-}
+}*/
